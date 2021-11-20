@@ -123,7 +123,7 @@ public class VistaRegistro extends javax.swing.JFrame {
         });
 
         BtnRegresar.setBackground(new java.awt.Color(255, 255, 255));
-        BtnRegresar.setForeground(new java.awt.Color(255, 0, 0));
+        BtnRegresar.setForeground(new java.awt.Color(240, 240, 240));
         BtnRegresar.setText("Regresar");
         BtnRegresar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -131,7 +131,6 @@ public class VistaRegistro extends javax.swing.JFrame {
             }
         });
 
-        BtnRegistrar.setBackground(new java.awt.Color(51, 51, 255));
         BtnRegistrar.setLabel("Registrar");
         BtnRegistrar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
